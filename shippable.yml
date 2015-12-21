@@ -20,3 +20,5 @@ notifications:
   email:
     - test12.ci34@gmail.com
   irc: "chat.freenode.net#test-irc"
+  
+  
